@@ -13,6 +13,4 @@
 <a href="https://instagram.com/alan_menescal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan_menescal" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amenesca&show_icons=true&locale=en&layout=compact" alt="amenesca" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amenesca&show_icons=true&locale=en" alt="amenesca" /></p>
