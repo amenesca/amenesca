@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A passionate backend developer from Brasil</h3>
+<h3 align="center">A passionate software engineer student from Brasil</h3>
 
 - 👨‍💻 Currently studying **at 42 | Rio as a Cadet**
 - 💻 Learning **C, C++, Bash, BuildSystems, Algorithms and Data Structures**
