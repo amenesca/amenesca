@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate software engineer student from Brasil</h3>
 
-- 👨‍💻 Currently studying **at 42 | Rio as a Cadet**
+- 👨‍💻 Currently studying **at 42 | Rio**
 - 💻 Learning **C, C++, Bash, Algorithms and Data Structures**
 - 📫 How to reach me **amenesca@student.42.rio**
 
