@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer student from Brasil</h3>
 
 - 👨‍💻 Currently studying **at 42 | Rio as a Cadet**
-- 💻 Learning **C, C++, Bash, BuildSystems, Algorithms and Data Structures**
+- 💻 Learning **C, C++, Bash, Algorithms and Data Structures**
 - 📫 How to reach me **amenesca@student.42.rio**
 
 <h3 align="left">Connect with me:</h3>
