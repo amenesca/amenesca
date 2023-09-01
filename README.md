@@ -11,7 +11,7 @@
 
 <h3 align="left">🧑🏻‍🏫 Currently learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,mysql,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,mysql,postgres,docker&theme=light)](https://skillicons.dev)
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
