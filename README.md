@@ -1,10 +1,8 @@
-<h1 align="center">Hey, you. You're finally awake.</h1>
-<h2 align="center">A passionate software engineer student from Brasil</h2>
+## Bem-vindo(a), eu me chamo Alan Menescal 👋🏻😀
 
 - 👨‍💻 Currently studying Software Engineering **at 42 | Rio**
 - 💻 Learning **How to be a Human Coder**
-- 📫 How to reach me **amenesca@student.42.rio**
-
+<hr>
 <h3 align="left">🧑🏻‍💻 My current technical skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,git,github,vim,vscode&theme=light)](https://skillicons.dev)
@@ -13,7 +11,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,mysql,postgres,docker&theme=light)](https://skillicons.dev)
 
-<h3 align="left">🤝🏻 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alan-menescal-c%C3%A1ceres-4019a4177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan menescal cáceres" height="30" width="40" /></a>
-</p>
+<hr>
+ <div>
+   <a href="https://github.com/amenesca">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenesca&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+ 
+<br>
+ 
+### Conecte-se comigo! 
+ 
+<div> 
+  <a href = "mailto:drawcodex@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alanmenescalcaceres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
