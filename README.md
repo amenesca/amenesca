@@ -1,4 +1,4 @@
-## Bem-vindo(a), eu me chamo Alan Menescal 👋🏻😀
+## Bem-vindo(a) 👋🏻😀
 
 - 👨‍💻 Currently studying Software Engineering **at 42 | Rio**
 - 💻 Learning **How to be a Human Coder**
