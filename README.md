@@ -5,11 +5,11 @@
 <hr>
 <h3 align="left">🧑🏻‍💻 My current technical skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,git,github,vim,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,git,github,vim,vscode,docker&theme=light)](https://skillicons.dev)
 
 <h3 align="left">🧑🏻‍🏫 Currently learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,mysql,postgres,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,mysql,postgres&theme=light)](https://skillicons.dev)
 
 <hr>
  <div>
