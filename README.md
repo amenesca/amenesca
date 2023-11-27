@@ -9,7 +9,7 @@
 
 <h3 align="left">🧑🏻‍🏫 Currently learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,react,mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,react,python,mysql,postgres&theme=light)](https://skillicons.dev)
 
 <hr>
  <div>
