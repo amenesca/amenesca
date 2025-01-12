@@ -1,6 +1,7 @@
 # Alan Menescal
 
-Sou iniciante na programação, estudante da 42|Rio, iniciei meu aprendizado com c/c++ e agora estou começando a aprender um pouco mais sobre o universo de web.
+
+
 
 ## Conecte-se comigo
 
